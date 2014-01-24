@@ -18,7 +18,7 @@
         <link rel="stylesheet" href="../css/main.css">
         <link rel="stylesheet" href="../bootstrap/303/css/bootstrap.min.css">
         <link rel="stylesheet" href="../bootstrap/303/css/bootstrap-theme.min.css">
-        <script src="../js/vendor/modernizr-2.6.1.min.js"></script>
+        <script src="../js/vendor/modernizr-2.7.1.min.js"></script>
         <!-- TemplateBeginEditable name="head" -->
         <meta name="description" content="">
         <meta name="keywords" content="">
